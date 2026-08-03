@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A",
+    "course": "Computer Science",
+    "email": "alice.johnson@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "age": 21,
+    "gender": "Male",
+    "grade": "B+",
+    "course": "Mechanical Engineering",
+    "email": "brian.smith@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "age": 19,
+    "gender": "Female",
+    "grade": "A-",
+    "course": "Mathematics",
+    "email": "catherine.lee@example.com"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "age": 22,
+    "gender": "Male",
+    "grade": "B",
+    "course": "Physics",
+    "email": "david.brown@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A+",
+    "course": "Biotechnology",
+    "email": "emma.davis@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "age": 23,
+    "gender": "Male",
+    "grade": "C+",
+    "course": "Civil Engineering",
+    "email": "frank.wilson@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Grace Miller",
+    "age": 21,
+    "gender": "Female",
+    "grade": "B+",
+    "course": "Chemistry",
+    "email": "grace.miller@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Henry Moore",
+    "age": 20,
+    "gender": "Male",
+    "grade": "A",
+    "course": "Information Technology",
+    "email": "henry.moore@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Taylor",
+    "age": 19,
+    "gender": "Female",
+    "grade": "B-",
+    "course": "Economics",
+    "email": "isabella.taylor@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Jack Anderson",
+    "age": 22,
+    "gender": "Male",
+    "grade": "A-",
+    "course": "Electronics",
+    "email": "jack.anderson@example.com"
+  }
+]
