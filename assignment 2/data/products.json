@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 637,
+    "category": "Electronics",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 774,
+    "category": "Accessories",
+    "stock": 19
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 911,
+    "category": "Home",
+    "stock": 26
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 1048,
+    "category": "Sports",
+    "stock": 33
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 1185,
+    "category": "Books",
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 1322,
+    "category": "Electronics",
+    "stock": 47
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "price": 1459,
+    "category": "Accessories",
+    "stock": 54
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "price": 1596,
+    "category": "Home",
+    "stock": 61
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "price": 1733,
+    "category": "Sports",
+    "stock": 68
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "price": 1870,
+    "category": "Books",
+    "stock": 75
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "price": 2007,
+    "category": "Electronics",
+    "stock": 82
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "price": 2144,
+    "category": "Accessories",
+    "stock": 89
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "price": 2281,
+    "category": "Home",
+    "stock": 96
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "price": 2418,
+    "category": "Sports",
+    "stock": 7
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "price": 2555,
+    "category": "Books",
+    "stock": 14
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "price": 2692,
+    "category": "Electronics",
+    "stock": 21
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "price": 2829,
+    "category": "Accessories",
+    "stock": 28
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "price": 2966,
+    "category": "Home",
+    "stock": 35
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "price": 3103,
+    "category": "Sports",
+    "stock": 42
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "price": 3240,
+    "category": "Books",
+    "stock": 49
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "price": 3377,
+    "category": "Electronics",
+    "stock": 56
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "price": 3514,
+    "category": "Accessories",
+    "stock": 63
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "price": 3651,
+    "category": "Home",
+    "stock": 70
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "price": 3788,
+    "category": "Sports",
+    "stock": 77
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "price": 3925,
+    "category": "Books",
+    "stock": 84
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "price": 4062,
+    "category": "Electronics",
+    "stock": 91
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "price": 4199,
+    "category": "Accessories",
+    "stock": 98
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "price": 4336,
+    "category": "Home",
+    "stock": 9
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "price": 4473,
+    "category": "Sports",
+    "stock": 16
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "price": 4610,
+    "category": "Books",
+    "stock": 23
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "price": 4747,
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "price": 4884,
+    "category": "Accessories",
+    "stock": 37
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "price": 5021,
+    "category": "Home",
+    "stock": 44
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "price": 5158,
+    "category": "Sports",
+    "stock": 51
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "price": 5295,
+    "category": "Books",
+    "stock": 58
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "price": 5432,
+    "category": "Electronics",
+    "stock": 65
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "price": 5569,
+    "category": "Accessories",
+    "stock": 72
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "price": 5706,
+    "category": "Home",
+    "stock": 79
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "price": 5843,
+    "category": "Sports",
+    "stock": 86
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "price": 5980,
+    "category": "Books",
+    "stock": 93
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "price": 6117,
+    "category": "Electronics",
+    "stock": 100
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "price": 6254,
+    "category": "Accessories",
+    "stock": 11
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "price": 6391,
+    "category": "Home",
+    "stock": 18
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "price": 6528,
+    "category": "Sports",
+    "stock": 25
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "price": 6665,
+    "category": "Books",
+    "stock": 32
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "price": 6802,
+    "category": "Electronics",
+    "stock": 39
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "price": 6939,
+    "category": "Accessories",
+    "stock": 46
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "price": 7076,
+    "category": "Home",
+    "stock": 53
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "price": 7213,
+    "category": "Sports",
+    "stock": 60
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "price": 7350,
+    "category": "Books",
+    "stock": 67
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "price": 7487,
+    "category": "Electronics",
+    "stock": 74
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "price": 7624,
+    "category": "Accessories",
+    "stock": 81
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "price": 7761,
+    "category": "Home",
+    "stock": 88
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "price": 7898,
+    "category": "Sports",
+    "stock": 95
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "price": 8035,
+    "category": "Books",
+    "stock": 6
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "price": 8172,
+    "category": "Electronics",
+    "stock": 13
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "price": 8309,
+    "category": "Accessories",
+    "stock": 20
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "price": 8446,
+    "category": "Home",
+    "stock": 27
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "price": 8583,
+    "category": "Sports",
+    "stock": 34
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "price": 8720,
+    "category": "Books",
+    "stock": 41
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "price": 8857,
+    "category": "Electronics",
+    "stock": 48
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "price": 8994,
+    "category": "Accessories",
+    "stock": 55
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "price": 9131,
+    "category": "Home",
+    "stock": 62
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "price": 9268,
+    "category": "Sports",
+    "stock": 69
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "price": 9405,
+    "category": "Books",
+    "stock": 76
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "price": 9542,
+    "category": "Electronics",
+    "stock": 83
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "price": 9679,
+    "category": "Accessories",
+    "stock": 90
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "price": 9816,
+    "category": "Home",
+    "stock": 97
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "price": 9953,
+    "category": "Sports",
+    "stock": 8
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "price": 10090,
+    "category": "Books",
+    "stock": 15
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "price": 10227,
+    "category": "Electronics",
+    "stock": 22
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "price": 10364,
+    "category": "Accessories",
+    "stock": 29
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "price": 10501,
+    "category": "Home",
+    "stock": 36
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "price": 10638,
+    "category": "Sports",
+    "stock": 43
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "price": 10775,
+    "category": "Books",
+    "stock": 50
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "price": 10912,
+    "category": "Electronics",
+    "stock": 57
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "price": 11049,
+    "category": "Accessories",
+    "stock": 64
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "price": 11186,
+    "category": "Home",
+    "stock": 71
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "price": 11323,
+    "category": "Sports",
+    "stock": 78
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "price": 11460,
+    "category": "Books",
+    "stock": 85
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "price": 11597,
+    "category": "Electronics",
+    "stock": 92
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "price": 11734,
+    "category": "Accessories",
+    "stock": 99
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "price": 11871,
+    "category": "Home",
+    "stock": 10
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "price": 12008,
+    "category": "Sports",
+    "stock": 17
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "price": 12145,
+    "category": "Books",
+    "stock": 24
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "price": 12282,
+    "category": "Electronics",
+    "stock": 31
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "price": 12419,
+    "category": "Accessories",
+    "stock": 38
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "price": 12556,
+    "category": "Home",
+    "stock": 45
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "price": 12693,
+    "category": "Sports",
+    "stock": 52
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "price": 12830,
+    "category": "Books",
+    "stock": 59
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "price": 12967,
+    "category": "Electronics",
+    "stock": 66
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "price": 13104,
+    "category": "Accessories",
+    "stock": 73
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "price": 13241,
+    "category": "Home",
+    "stock": 80
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "price": 13378,
+    "category": "Sports",
+    "stock": 87
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "price": 13515,
+    "category": "Books",
+    "stock": 94
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "price": 13652,
+    "category": "Electronics",
+    "stock": 5
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "price": 13789,
+    "category": "Accessories",
+    "stock": 12
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "price": 13926,
+    "category": "Home",
+    "stock": 19
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "price": 14063,
+    "category": "Sports",
+    "stock": 26
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "price": 14200,
+    "category": "Books",
+    "stock": 33
+  }
+]
